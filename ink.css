@@ -352,7 +352,7 @@ small {
 }
 
 a {
-  color: #2ba6cb; 
+  color: #f8a649; 
   text-decoration: none;
 }
 
@@ -365,7 +365,7 @@ a:active {
 }
 
 a:visited { 
-  color: #2ba6cb !important;
+  color: #f8a649 !important;
 }
 
 h1 a, 
@@ -374,7 +374,7 @@ h3 a,
 h4 a, 
 h5 a, 
 h6 a {
-  color: #2ba6cb;
+  color: #f8a649;
 }
 
 h1 a:active, 
@@ -383,7 +383,7 @@ h3 a:active,
 h4 a:active, 
 h5 a:active, 
 h6 a:active { 
-  color: #2ba6cb !important; 
+  color: #f8a649 !important; 
 } 
 
 h1 a:visited, 
@@ -392,7 +392,7 @@ h3 a:visited,
 h4 a:visited, 
 h5 a:visited, 
 h6 a:visited { 
-  color: #2ba6cb !important; 
+  color: #f8a649 !important; 
 } 
 
 /* Panels */
@@ -430,8 +430,8 @@ table.large-button td {
   display: block;
   width: auto !important;
   text-align: center;
-  background: #2ba6cb;
-  border: 1px solid #2284a1;
+  background: #f8a649;
+  border: 1px solid #f8a651;
   color: #ffffff;
   padding: 8px 0;
 }
