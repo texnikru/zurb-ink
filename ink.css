@@ -516,11 +516,7 @@ table.medium-button td a:visited,
 table.large-button:hover td a,
 table.large-button:active td a,
 table.large-button td a:visited {
-  /*
-  AOL: Displayed as white text on white background.
   color: #ffffff !important; 
-  */
-  color: #00E;
 }
 
 table.secondary td {
@@ -698,4 +694,8 @@ body.outlook p {
 }
 .header h2 {
     font-weight: 700;
+}
+
+.button_primary {
+    color: #00E !important;
 }
