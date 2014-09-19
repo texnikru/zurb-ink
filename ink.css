@@ -516,7 +516,10 @@ table.medium-button td a:visited,
 table.large-button:hover td a,
 table.large-button:active td a,
 table.large-button td a:visited {
+  /*
+  AOL: Displayed as white text on white background.
   color: #ffffff !important; 
+  */
 }
 
 table.secondary td {
