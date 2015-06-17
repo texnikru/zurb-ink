@@ -699,3 +699,8 @@ body.outlook p {
 .button_primary {
     color: #00E !important;
 }
+.notice {
+    text-align: center;
+    font-size: 10px;
+    color: #ccc;
+}
