@@ -709,6 +709,6 @@ body.outlook p {
     width: 158px;
     height: 158px !important;
 
-    object-fit: scale-down;
+    object-fit: scale-down  !important;
     object-position: center;
 }
