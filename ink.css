@@ -706,9 +706,10 @@ body.outlook p {
 }
 
 .song-fb-photo {
-    width: 158px;
+    width: 158px !important;
+    min-width: 158px !important;
     height: 158px !important;
 
-    object-fit: scale-down  !important;
+    object-fit: cover;
     object-position: center;
 }
