@@ -707,6 +707,7 @@ body.outlook p {
 
 .song-fb-photo {
     width: 158px;
+    min-width: 158px;
     height: 158px;
 
     object-fit: cover;
